@@ -1,0 +1,13 @@
+#Use $SENDER$ to refer command executer
+#Use $TARGET$ to refer command target(if exists)
+
+#If the command is executed in game
+cftitle:    "¡ìa$SENDER$"
+cfsubtitle: "¡ìaHas Forgiven You!"
+
+#If the command is executed from console
+cstitle:    "¡ìaThe Console"
+cssubtitle: "¡ìaHas Forgiven You!"
+
+#Message broadcasted
+broadcast:  "¡ìa$SENDER$ Has Forgiven $TARGET$!"

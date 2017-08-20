@@ -1,0 +1,10 @@
+name: Forgiveness
+main: io.github.Alligrater.Forgiveness
+version: 1.0
+commands:
+  forgive:
+    description: Forgive Your Friend!
+    usage: /forgive
+  forgiveall:
+    description: Forgive Everyone!
+    usage: /forgiveall
